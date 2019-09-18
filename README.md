@@ -1,6 +1,6 @@
 # tween_animation
 
-An test application for basic Tween Animation
+A test application for basic Tween Animation
 
 ## Getting Started
 
